@@ -1,0 +1,11 @@
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/bin/Debug/net8.0/Contracts.deps.json
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/bin/Debug/net8.0/Contracts.dll
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/bin/Debug/net8.0/Contracts.pdb
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/obj/Debug/net8.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfoInputs.cache
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfo.cs
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/obj/Debug/net8.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/obj/Debug/net8.0/Contracts.dll
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/obj/Debug/net8.0/refint/Contracts.dll
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/obj/Debug/net8.0/Contracts.pdb
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/obj/Debug/net8.0/ref/Contracts.dll

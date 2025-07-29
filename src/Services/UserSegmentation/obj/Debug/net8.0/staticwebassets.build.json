@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KQRvB01y6ckgb8JyiiVXZ1m74ooMteR4JL5LDbmHkk4=",
+  "Source": "UserSegmentation",
+  "BasePath": "_content/UserSegmentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

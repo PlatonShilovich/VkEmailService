@@ -1,0 +1,11 @@
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Common/bin/Debug/net7.0/Common.deps.json
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Common/bin/Debug/net7.0/Common.dll
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Common/bin/Debug/net7.0/Common.pdb
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Common/obj/Debug/net7.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Common/obj/Debug/net7.0/Common.AssemblyInfoInputs.cache
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Common/obj/Debug/net7.0/Common.AssemblyInfo.cs
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Common/obj/Debug/net7.0/Common.csproj.CoreCompileInputs.cache
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Common/obj/Debug/net7.0/Common.dll
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Common/obj/Debug/net7.0/refint/Common.dll
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Common/obj/Debug/net7.0/Common.pdb
+/Users/platon/VkEmailService/VkEmailService/src/Shared/Common/obj/Debug/net7.0/ref/Common.dll

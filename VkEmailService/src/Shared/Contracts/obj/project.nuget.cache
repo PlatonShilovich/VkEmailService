@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFSby8JrblA=",
+  "success": true,
+  "projectFilePath": "/Users/platon/VkEmailService/VkEmailService/src/Shared/Contracts/Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/platon/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/platon/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

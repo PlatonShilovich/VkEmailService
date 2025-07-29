@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7dGSfLCMKrywJSNV3j9GDjI9SsXJRC7Oors2SjB6GdA=",
+  "Source": "EmailCampaign",
+  "BasePath": "_content/EmailCampaign",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
